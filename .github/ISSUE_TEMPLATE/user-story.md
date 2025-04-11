@@ -1,3 +1,12 @@
+---
+name: user-story
+about: User Story Template for the DevOps Capstone
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
